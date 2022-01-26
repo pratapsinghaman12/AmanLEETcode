@@ -7,31 +7,31 @@ class Solution {
   public:
     long long int count(int s[], int N, int sum) {
 
-       long long int dp[sum+1][N+1];
-       
-       for(int i=0;i<=N;i++)
-       {
-           dp[0][i]=1;
-       }
-       
-        for(int i=1;i<=sum;i++)
-       {
-           dp[i][0]=0;
-       }
+       long long int dp[N+1][sum+1];
        
        for(int i=1;i<=sum;i++)
        {
-           for(int j=1;j<=N;j++)
+           dp[0][i]=0;
+       }
+       
+        for(int i=0;i<=N;i++)
+       {
+           dp[i][0]=1;
+       }
+       
+       for(int i=1;i<=N;i++)
+       {
+           for(int j=1;j<=sum;j++)
            {
-               dp[i][j]=dp[i][j-1];
+               dp[i][j]=dp[i-1][j];
                
-               if(s[j-1]<=i)
+               if(s[i-1]<=j)
                {
-                   dp[i][j]+=dp[i-s[j-1]][j];
+                   dp[i][j]+=dp[i][j-s[i-1]];
                }
            }
        }
-       return dp[sum][N];
+       return dp[N][sum];
     }
 };
 
