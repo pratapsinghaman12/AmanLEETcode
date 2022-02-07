@@ -1,14 +1,13 @@
 class Solution {
 public:
     int climbStairs(int n) {
-        int one=1;
-        int second=1;
-        for(int i=0;i<n-1;i++)
+        int dp[n+1];
+        dp[0]=1;
+        dp[1]=1;
+        for(int i=2;i<=n;i++)
         {
-            int temp=one;
-            one=one+second;
-            second=temp;
+            dp[i]=dp[i-1]+dp[i-2];
         }
-        return one;
+        return dp[n];
     }
 };
