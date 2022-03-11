@@ -12,19 +12,19 @@ class Solution{
     //Function to find the leaders in the array.
     public:
     vector<int> leaders(int a[], int n){
-       long long int curr=a[n-1];
-       vector<int>v;
-       v.push_back(a[n-1]);
-       for(long long int i=n-2;i>=0;i--)
-       {
-           if(a[i]>=curr)
-           {
-               curr=a[i];
-               v.push_back(curr);
-           }
-       }
-       reverse(v.begin(),v.end());
-       return v;
+      vector<int>v;
+      v.push_back(a[n-1]);
+      long long int len=1;
+      for(int i=n-2;i>=0;i--)
+      {
+          if(a[i]>=v[len-1])
+          {
+              v.push_back(a[i]);
+              len++;
+          }
+      }
+      reverse(v.begin(),v.end());
+      return v;
         
     }
 };
