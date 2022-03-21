@@ -1,38 +1,40 @@
 class Solution {
 public:
-    bool iscycle(vector<vector<int>>&adj,vector<bool>&vis,vector<bool>&rec,int st)
+    bool is_cycle(vector<vector<int>>&adj,vector<int>&vis,int src)
     {
-        vis[st]=true;
-        rec[st]=true;
-        for(auto x:adj[st])
+        if(vis[src]==1)
         {
-            if(vis[x]==false&&iscycle(adj,vis,rec,x))
-            {
-                return true;
-            }
-            else if(rec[x]==true)
+            return true;
+        }
+        if(vis[src]==2)
+        {
+            return false;
+        }
+        vis[src]=1;
+        for(int i=0;i<adj[src].size();i++)
+        {
+            if(is_cycle(adj,vis,adj[src][i]))
             {
                 return true;
             }
         }
-        rec[st]=false;
+        vis[src]=2;
         return false;
     }
-    bool canFinish(int n, vector<vector<int>>& pre) {
-        vector<vector<int>>adj(n);
+    bool canFinish(int num, vector<vector<int>>& pre) {
+        vector<vector<int>>adj(num);
         for(int i=0;i<pre.size();i++)
         {
-            adj[pre[i][0]].push_back(pre[i][1]);
+             adj[pre[i][0]].push_back(pre[i][1]);
         }
-        vector<bool>vis(n,false);
-        vector<bool>rec(n,false);
-        for(int i=0;i<adj.size();i++)
+        vector<int> visited(num,0);
+        for(int i=0;i<num;++i)
         {
-            if(vis[i]==false&&iscycle(adj,vis,rec,i))
+            if(visited[i]==0&&is_cycle(adj,visited,i))
             {
-                return false;
-            }
-        }
+                 return false;
+            }           
+        }   
         return true;
     }
 };
