@@ -1,68 +1,55 @@
 class Solution {
 public:
-     bool detectCycle_util(vector<vector<int>>& adj,vector<int>& visited,int v)
+    bool kans_algo(vector<vector<int>>&adj,vector<int>&indegree,vector<int>&ans,int n)
     {
-        if(visited[v]==1)
-            return true;
-        if(visited[v]==2)
-            return false;
-        
-        visited[v]=1;   //Mark current as visited
-        for(int i=0;i<adj[v].size();++i)
-            if(detectCycle_util(adj,visited,adj[v][i]))
-                return true;
-        
-        visited[v]=2;   //Mark current node as processed
-        return false;
-    }
-    
-    //Cycle detection
-    bool detectCycle(vector<vector<int>>& adj,int n)
-    {
-        vector<int> visited(n,0);
-        for(int i=0;i<n;++i)
-            if(!visited[i])
-                if(detectCycle_util(adj,visited,i))
-                    return true;
-        return false;
-    }
-    
-    //Topological sort
-    void dfs(vector<vector<int>>& adj,int v,vector<bool>& visited,stack<int>& mystack)
-    {
-        visited[v] = true;
-        for(int i=0;i<adj[v].size();++i)
-            if(!visited[adj[v][i]])
-                dfs(adj,adj[v][i],visited,mystack);
-        
-        mystack.push(v);
-    }
-    vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
-         int n=prerequisites.size();
-        vector<vector<int>> adj(numCourses);
-        //Make adjacecncy list
-        for(int i=0;i<n;++i)
-            adj[prerequisites[i][1]].push_back(prerequisites[i][0]);
-        
-        //Detect CYCLE...If present then return empty array
-        vector<int> ans;
-        if(detectCycle(adj,numCourses))
-            return ans;        
-        
-        //Find toposort and store it in stack
-        stack<int> mystack;
-        vector<bool> visited(numCourses,false);
-        
-        //Apply DFS and find topological sort
-        for(int i=0;i<numCourses;++i)
-            if(!visited[i])
-                dfs(adj,i,visited,mystack);
-        
-        while(!mystack.empty())
+        queue<int>q;
+        int count=0;
+        for(int i=0;i<indegree.size();i++)
         {
-            ans.push_back(mystack.top());
-            mystack.pop();
+            if(indegree[i]==0)
+            {
+                q.push(i);
+            }
         }
-        return ans;
+        while(q.size()!=0)
+        {
+            int curr= q.front();
+            q.pop();
+            for(auto x:adj[curr])
+            {
+                indegree[x]-=1;
+                if(indegree[x]==0)
+                {
+                    q.push(x);
+                }
+            }
+            ans.push_back(curr);
+            count+=1;
+        }
+        if(count==n)
+        {
+            return true;
+        }
+        else
+        {
+            return false;
+        }
+    }
+    vector<int> findOrder(int n, vector<vector<int>>& pre) {
+        vector<vector<int>>adj(n);
+        vector<int>indegree(n,0);
+        for(int i=0;i<pre.size();i++)
+        {
+            adj[pre[i][1]].push_back(pre[i][0]);
+            indegree[pre[i][0]]+=1;
+        }
+        vector<int>ans;
+        if(kans_algo(adj,indegree,ans,n))
+        {
+            return ans;
+        }
+        vector<int>res;
+        return res;
+        
     }
 };
