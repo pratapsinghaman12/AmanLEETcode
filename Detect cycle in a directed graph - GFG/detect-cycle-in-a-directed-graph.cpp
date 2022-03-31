@@ -5,30 +5,32 @@ using namespace std;
  // } Driver Code Ends
 class Solution {
   public:
-    bool aman(int s,vector<bool>&vis,vector<bool>&recs,vector<int>adj[])
-    {
-        vis[s]=true;
-        recs[s]=true;
-        for(auto x:adj[s])
-        {
-            if(vis[x]==false&&aman(x,vis,recs,adj))
-            {
-                return true;
-            }
-            else if(recs[x]==true)
-            {
-                return true;
-            }
-        }
-        recs[s]=false;
-        return false;
-    }
-    bool isCyclic(int V, vector<int> adj[]) {
-        vector<bool>vis(V,false);
-           vector<bool>recs(V,false);
-       for(int i=0;i<V;i++)
+   bool aman(vector<int>adj[],vector<int>&vis,int s)
+   {
+       if(vis[s]==1)
        {
-           if(vis[i]==false&&aman(i,vis,recs,adj))
+           return true;
+       }
+       if(vis[s]==2)
+       {
+           return false;
+       }
+       vis[s]=1;
+       for(auto x:adj[s])
+       {
+           if(aman(adj,vis,x))
+           {
+               return true;
+           }
+       }
+       vis[s]=2;
+       return false;
+   }
+    bool isCyclic(int v, vector<int> adj[]) {
+       vector<int>vis(v,0);
+       for(int i=0;i<v;i++)
+       {
+           if(vis[i]==0&&aman(adj,vis,i))
            {
                return true;
            }
