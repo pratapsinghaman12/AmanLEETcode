@@ -1,7 +1,7 @@
 class Solution {
 public:
     int change(int amount, vector<int>& coins) {
-         int N=coins.size();
+            int N=coins.size();
         
         int dp[N+1][amount+1];
         
