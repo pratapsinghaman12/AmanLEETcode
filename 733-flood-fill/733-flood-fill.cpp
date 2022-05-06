@@ -1,34 +1,20 @@
 class Solution {
 public:
-    void dfs(vector<vector<int>>&image,int i,int j,int ne,int n,int m,int src)
+    void aman_dfs(vector<vector<int>>& mat,int i,int j,int x,int y)
     {
-        image[i][j]=ne;
-        if(i>0&& image[i-1][j]==src)
-        {
-            dfs(image,i-1,j,ne,n,m,src);
-        }
-        if(j>0&& image[i][j-1]==src)
-        {
-            dfs(image,i,j-1,ne,n,m,src);
-        }
-        if(i<n-1&&image[i+1][j]==src)
-        {
-            dfs(image,i+1,j,ne,n,m,src);
-        }
-        if(j<m-1&& image[i][j+1]==src)
-        {
-            dfs(image,i,j+1,ne,n,m,src);
-        }
+       if(i<0||i>=mat.size()||j<0||j>=mat[0].size()||mat[i][j]==x||mat[i][j]!=y)
+       {
+           return;
+       }
+        mat[i][j]=x;
+        aman_dfs(mat,i,j-1,x,y);
+        aman_dfs(mat,i,j+1,x,y);
+        aman_dfs(mat,i-1,j,x,y);
+        aman_dfs(mat,i+1,j,x,y);
     }
-    vector<vector<int>> floodFill(vector<vector<int>>& image, int i, int j, int newColor) {
-        int n=image.size();
-        int m=image[0].size();
-        int src=image[i][j];
-        if(src==newColor)
-        {
-            return image;
-        }
-        dfs(image,i,j,newColor,n,m,src);
+    vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int newColor) {
+        int oldColor=image[sr][sc];
+        aman_dfs(image,sr,sc,newColor,oldColor);
         return image;
     }
 };
