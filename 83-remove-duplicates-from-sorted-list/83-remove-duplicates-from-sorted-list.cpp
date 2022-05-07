@@ -15,21 +15,21 @@ public:
         {
             return head;
         }
-         ListNode*curr=head->next;
-         ListNode*prev=head;
+        ListNode*prev=head;
+        ListNode*curr=head->next;
         while(curr!=NULL)
         {
             if(curr->val==prev->val)
             {
                 prev->next=curr->next;
-                 ListNode*temp=curr;
+                ListNode*temp=curr;
                 curr=curr->next;
                 delete temp;
             }
             else
             {
-                curr=curr->next;
                 prev=prev->next;
+                curr=curr->next;
             }
         }
         return head;
