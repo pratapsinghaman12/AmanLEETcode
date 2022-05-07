@@ -1,38 +1,32 @@
 class Solution {
 public:
-    void mark_island(vector<vector<char>>& grid,int x,int y,int r,int c)
+    void dfs(vector<vector<char>>&grid,int i,int j,int r,int c)
     {
-        if(x<0||x>=r||y<0||y>=c||grid[x][y]!='1')
+        if(i<0||i>=r||j<0||j>=c||grid[i][j]!='1')
         {
             return;
         }
-        grid[x][y]='2';
-        mark_island(grid,x+1,y,r,c);
-        mark_island(grid,x-1,y,r,c);
-        mark_island(grid,x,y+1,r,c);
-        mark_island(grid,x,y-1,r,c);
+        grid[i][j]='2';
+        dfs(grid,i,j-1,r,c);
+        dfs(grid,i,j+1,r,c);
+        dfs(grid,i-1,j,r,c);
+        dfs(grid,i+1,j,r,c);
     }
-    
-    int numIslands(vector<vector<char>>& grid)
-    {
-        int r= grid.size();
-        int c= grid[0].size();
-        int island=0;
-        if(r==0)
-        {
-            return 0;
-        }
+    int numIslands(vector<vector<char>>& grid) {
+        int r=grid.size();
+        int c=grid[0].size();
+        int ans=0;
         for(int i=0;i<r;i++)
         {
             for(int j=0;j<c;j++)
             {
                 if(grid[i][j]=='1')
                 {
-                    mark_island(grid,i,j,r,c);
-                    island+=1;
+                    ans++;
+                    dfs(grid,i,j,r,c);
                 }
             }
         }
-        return island;
+        return ans;
     }
 };
