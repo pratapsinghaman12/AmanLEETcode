@@ -18,7 +18,7 @@ public:
         for(int i=0;i<4;i++){
             int coly=it.second+dy[i];
             int colx=it.first+dx[i];
-         if(colx>=0&&coly>=0&&colx<mat.size()&&coly<mat[0].size()&&mat[colx][coly]<0)
+         if(colx>=0&&coly>=0&&colx<mat.size()&&coly<mat[0].size()&&mat[colx][coly]==-1)
          {
              ans.push({colx,coly});
              mat[colx][coly]=mat[it.first][it.second]+1;
