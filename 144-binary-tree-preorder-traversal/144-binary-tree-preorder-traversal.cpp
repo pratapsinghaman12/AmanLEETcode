@@ -11,23 +11,21 @@
  */
 class Solution {
 public:
-     void aman_in(TreeNode* root, vector<int> &v)
+    void pre(TreeNode*root ,vector<int>&ans)
     {
-        if(root!=NULL)
+        if(root==NULL)
         {
-            v.push_back(root->val);
-            
-            aman_in(root->left,v);
-            
-            aman_in(root->right,v);
-            
+            return;
         }
+        ans.push_back(root->val);
         
+        pre(root->left,ans);
         
+        pre(root->right,ans);
     }
     vector<int> preorderTraversal(TreeNode* root) {
-         vector<int>v;
-        aman_in(root,v);
-        return v;
+        vector<int>ans;
+        pre(root,ans);
+        return ans;
     }
 };
