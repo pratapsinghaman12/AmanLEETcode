@@ -11,25 +11,22 @@
  */
 class Solution {
 public:
-      void aman_in(TreeNode* root, vector<int> &v)
+    void pos(TreeNode*root ,vector<int>&ans)
     {
-        if(root!=NULL)
+        if(root==NULL)
         {
-           
-            
-            aman_in(root->left,v);
-            
-            aman_in(root->right,v);
-            
-             v.push_back(root->val);
-            
+            return;
         }
+      
         
+        pos(root->left,ans);
         
+        pos(root->right,ans);
+          ans.push_back(root->val);
     }
     vector<int> postorderTraversal(TreeNode* root) {
-         vector<int>v;
-        aman_in(root,v);
-        return v;
+      vector<int>ans;
+        pos(root,ans);
+        return ans;
     }
 };
