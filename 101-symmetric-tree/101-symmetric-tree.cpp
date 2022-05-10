@@ -19,10 +19,7 @@ public:
         }
         if(a!=NULL&&b!=NULL)
         {
-            return(
-            a->val==b->val&&
-                aman(a->left,b->right)&&aman(a->right,b->left)
-            );
+           return ((a->val==b->val)&&aman(a->left,b->right)&&aman(a->right,b->left)); 
         }
         return false;
     }
