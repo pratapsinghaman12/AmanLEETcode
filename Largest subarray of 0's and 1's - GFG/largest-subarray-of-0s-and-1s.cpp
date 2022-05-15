@@ -32,14 +32,15 @@ class Solution{
             {
                 res=i+1;
             }
-            if(mp.find(sum)==mp.end())
-            {
-                mp[sum]=i;
-            }
             if(mp.find(sum)!=mp.end())
             {
                 res=max(res,i-mp[sum]);
             }
+            if(mp.find(sum)==mp.end())
+            {
+                mp[sum]=i;
+            }
+            
         }
         return res;
     }
