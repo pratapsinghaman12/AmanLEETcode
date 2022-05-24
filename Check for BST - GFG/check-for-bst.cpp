@@ -23,23 +23,23 @@ class Solution
 {
     public:
     //Function to check whether a Binary Tree is BST or not.
-    long long int  prev=INT_MIN;
+    int prev=-1;
     bool isBST(Node* root) 
     {
-        if(root==NULL)
-        {
-            return true;
-        }
-        if(isBST(root->left)==false)
-        {
-            return false;
-        }
-        if(root->data<=prev)
-        {
-            return false;
-        }
-        prev=root->data;
-        return isBST(root->right);
+       if(root==NULL)
+       {
+           return true;
+       }
+       if(isBST(root->left)==false)
+       {
+           return false;
+       }
+       if(root->data<=prev)
+       {
+           return false;
+       }
+       prev=root->data;
+       return isBST(root->right);
     }
 };
 
