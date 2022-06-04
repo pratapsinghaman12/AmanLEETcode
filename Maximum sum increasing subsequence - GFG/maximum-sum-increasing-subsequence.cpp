@@ -7,28 +7,28 @@ class Solution{
 		
 
 	public:
-	int maxSumIS(int arr[], int n)  
+	int maxSumIS(int nums[], int n)  
 	{  
-	   int lis[n]={0};
-	   lis[0]=arr[0];
-	   int res=lis[0];
-	   for(int i=1;i<n;i++)
-	   {
-	       lis[i]=arr[i];
-	       for(int j=0;j<i;j++)
-	       {
-	           if(arr[i]>arr[j])
-	           {
-	              lis[i]=max(lis[i],arr[i]+lis[j]);
-	           }
-	       }
-	       if(lis[i]>res)
-	       {
-	           res=lis[i];
-	       }
-	       
-	   }
-	   return res;
+	    int dp[n];
+		dp[0]=nums[0];
+		int ans=nums[0];
+		for(int i=1;i<n;i++)
+		{
+			dp[i]=nums[i];
+			for(int j=0;j<i;j++)
+			{
+				if(nums[i]>nums[j])
+				{
+					dp[i]=max(dp[i],dp[j]+nums[i]);
+				}
+			}
+			ans=max(ans,dp[i]);
+		}
+		if(ans<=0)
+		{
+			return 0;
+		}
+		return ans;
 	}  
 };
 
