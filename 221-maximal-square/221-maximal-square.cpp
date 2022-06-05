@@ -1,53 +1,33 @@
 class Solution {
 public:
-    int maximalSquare(vector<vector<char>>& matrix) {
-        
-        int m=matrix.size();
-        int n=matrix[0].size();
-        int lar=0;
-        int dp[m][n];
-        
-        for(int i=0;i<n;i++)
-        {
-           if(matrix[0][i]=='1')
-           {
-               dp[0][i]=1;
-               lar=1;
-           }
-            else
-            {
-                dp[0][i]=0;
-            }
-        }
-        
-        for(int i=0;i<m;i++)
-        {
-           if(matrix[i][0]=='1')
-           {
-               dp[i][0]=1;
-               lar=1;
-           }
-            else
-            {
-                dp[i][0]=0;
-            }
-        }
-        
-        for(int i=1;i<m;i++)
-        {
-            for(int j=1;j<n;j++)
-            {
-                if(matrix[i][j]=='1')
-                {
-                         dp[i][j]= 1+ min(dp[i-1][j-1],min(dp[i-1][j],dp[i][j-1]));
-                          lar=max(lar,dp[i][j]);
-                }
-                else
-                {
-                    dp[i][j]=0;
-                }
-            }
-        }
-        return lar*lar;
+    int maximalSquare(vector<vector<char>>& mat) {
+        int n=mat.size();
+		int m=mat[0].size();
+		int dp[n+1][m+1];
+		int ans=0;
+		if(n==0)
+		{
+			return 0;
+		}
+		for(int i=0;i<=n;i++)
+		{
+			for(int j=0;j<=m;j++)
+			{
+				if(i==0||j==0)
+				{
+					dp[i][j]=0;
+				}
+				else if(mat[i-1][j-1]=='0')
+				{
+					dp[i][j]=0;
+				}
+				else
+				{
+					dp[i][j]= 1+ min(dp[i-1][j-1],min(dp[i-1][j],dp[i][j-1]));
+					ans=max(ans,dp[i][j]);
+				}
+			}
+		}
+		return ans*ans;
     }
 };
