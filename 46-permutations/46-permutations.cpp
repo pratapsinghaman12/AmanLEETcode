@@ -1,7 +1,7 @@
 class Solution {
 public:
     void recurPermute(int index, vector < int > & nums, vector < vector < int >> & ans) {
-      if (index == nums.size()) {
+      if (index == nums.size()-1) {
         ans.push_back(nums);
         return;
       }
