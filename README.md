@@ -36,4 +36,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1046-max-consecutive-ones-iii](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/1046-max-consecutive-ones-iii) |
+## Array
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/1046-max-consecutive-ones-iii) |
+## Binary Search
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/1046-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
