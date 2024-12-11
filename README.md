@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0206-reverse-linked-list) |
 ## Hash Table
 |  |
@@ -61,4 +62,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
