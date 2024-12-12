@@ -1,26 +1,24 @@
 class Solution {
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
-        Map<Integer, Integer> nextGreaterMap = new HashMap<>();
+        Map<Integer, Integer> map = new HashMap<>();
         Stack<Integer> stack = new Stack<>();
-        
-        // Traverse nums2 and use a stack to find the next greater elements
-        for (int num : nums2) {
-            while (!stack.isEmpty() && stack.peek() < num) {
-                nextGreaterMap.put(stack.pop(), num);
-            }
-            stack.push(num);
-        }
-        
-        // For remaining elements in the stack, there are no greater elements
-        while (!stack.isEmpty()) {
-            nextGreaterMap.put(stack.pop(), -1);
-        }
-        
-        // Build the result for nums1 based on the precomputed map
         int[] result = new int[nums1.length];
-        for (int i = 0; i < nums1.length; i++) {
-            result[i] = nextGreaterMap.get(nums1[i]);
+
+        for(int i = 0;i<nums2.length;i++){
+            while(!stack.isEmpty() &&  nums2[i] > stack.peek()){
+                 map.put(stack.pop(), nums2[i]);
+            }
+            stack.push(nums2[i]);
         }
+
+        while(!stack.isEmpty()){
+            map.put(stack.pop(),-1);
+        }
+
+        for(int i = 0;i<nums1.length;i++){
+            result[i] = map.get(nums1[i]);
+        }
+
         return result;
     }
 }
