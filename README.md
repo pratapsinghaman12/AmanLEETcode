@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0151-reverse-words-in-a-string) |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0027-remove-element) |
 | [0496-next-greater-element-i](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0735-asteroid-collision) |
