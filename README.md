@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0151-reverse-words-in-a-string](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0344-reverse-string) |
+| [0402-remove-k-digits](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0402-remove-k-digits) |
 ## Linked List
 |  |
 | ------- |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0735-asteroid-collision) |
@@ -81,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0943-sum-of-subarray-minimums) |
@@ -92,4 +95,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0735-asteroid-collision) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
