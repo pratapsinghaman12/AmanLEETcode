@@ -9,7 +9,7 @@ class Solution {
                 count_zero++;
             }
 
-            if(count_zero > k){
+            while(count_zero > k){
                 if(nums[left] == 0){
                     count_zero--;
                 }
