@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0496-next-greater-element-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Sliding Window
 |  |
 | ------- |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Array
 |  |
 | ------- |
@@ -61,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0943-sum-of-subarray-minimums](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -70,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Tree
 |  |
 | ------- |
@@ -86,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0050-powx-n) |
+| [1370-count-number-of-nice-subarrays](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Stack
 |  |
 | ------- |
