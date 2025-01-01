@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0735-asteroid-collision) |
