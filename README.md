@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0189-rotate-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Stack
 |  |
 | ------- |
