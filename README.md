@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0238-product-of-array-except-self) |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0943-sum-of-subarray-minimums) |
 ## Simulation
 |  |
@@ -144,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0402-remove-k-digits) |
 ## Queue
 |  |
