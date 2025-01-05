@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0101-symmetric-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0199-binary-tree-right-side-view) |
@@ -121,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -200,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
