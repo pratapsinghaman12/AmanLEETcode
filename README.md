@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0169-majority-element) |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0027-remove-element) |
+| [0041-first-missing-positive](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
