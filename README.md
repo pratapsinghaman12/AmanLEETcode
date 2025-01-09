@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
@@ -22,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -186,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0392-is-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0943-sum-of-subarray-minimums) |
 ## Simulation
 |  |
