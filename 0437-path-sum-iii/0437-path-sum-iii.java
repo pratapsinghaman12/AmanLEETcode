@@ -15,29 +15,26 @@
  */
 class Solution {
     public int pathSum(TreeNode root, int targetSum) {
-        HashMap<Long, Integer> prefixSum = new HashMap<>();
-        prefixSum.put(0L, 1); 
-        return dfs(root, 0L, targetSum, prefixSum);
+        HashMap<Long, Integer> hash = new HashMap<>();
+        hash.put(0L, 1);
+        return helpMeGod(root, 0L, targetSum, hash);
     }
 
-    private int dfs(TreeNode node, long currentSum, int targetSum, HashMap<Long, Integer> prefixSum) {
-        if (node == null) {
+    public int helpMeGod(TreeNode root, long currSum, int targetSum, HashMap<Long, Integer> hash ){
+        if(root == null){
             return 0;
         }
 
-        currentSum += node.val;
+        currSum += root.val;
 
-        
-        int count = prefixSum.getOrDefault(currentSum - targetSum, 0);
+        int count = hash.getOrDefault(currSum - targetSum, 0);
 
-        prefixSum.put(currentSum, prefixSum.getOrDefault(currentSum, 0) + 1);
+        hash.put(currSum, hash.getOrDefault(currSum, 0) + 1);
 
-        
-        count += dfs(node.left, currentSum, targetSum, prefixSum);
-        count += dfs(node.right, currentSum, targetSum, prefixSum);
+        count += helpMeGod(root.left, currSum, targetSum, hash);
+        count += helpMeGod(root.right, currSum, targetSum, hash);
 
-        
-        prefixSum.put(currentSum, prefixSum.get(currentSum) - 1);
+        hash.put(currSum, hash.getOrDefault(currSum, 0) - 1);
 
         return count;
     }
