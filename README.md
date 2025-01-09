@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0169-majority-element) |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0199-binary-tree-right-side-view) |
@@ -132,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0199-binary-tree-right-side-view) |
@@ -202,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -221,4 +225,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0257-binary-tree-paths) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
