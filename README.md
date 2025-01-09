@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0151-reverse-words-in-a-string) |
@@ -20,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0125-valid-palindrome](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0344-reverse-string) |
