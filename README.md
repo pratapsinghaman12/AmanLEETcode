@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0257-binary-tree-paths](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0437-path-sum-iii) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0257-binary-tree-paths](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0437-path-sum-iii) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 ## Binary Tree
 |  |
 | ------- |
@@ -159,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0257-binary-tree-paths](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0437-path-sum-iii) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 ## Math
 |  |
 | ------- |
