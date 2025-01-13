@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0257-binary-tree-paths](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0437-path-sum-iii) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 ## Depth-First Search
 |  |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0257-binary-tree-paths](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0437-path-sum-iii) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 ## Binary Tree
 |  |
@@ -173,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0257-binary-tree-paths](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0437-path-sum-iii) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 ## Math
 |  |
@@ -260,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0199-binary-tree-right-side-view) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Backtracking
 |  |
 | ------- |
@@ -269,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Bit Manipulation
 |  |
 | ------- |
