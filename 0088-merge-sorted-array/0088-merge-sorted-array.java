@@ -1,11 +1,7 @@
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
-        if(n == 0){
-            return ;
-        }
-
         int last = m + n - 1;
-        int i =  m - 1;
+        int i = m - 1;
         int j = n - 1;
 
         while(i >= 0 && j >= 0){
