@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0496-next-greater-element-i) |
+| [0652-find-duplicate-subtrees](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0652-find-duplicate-subtrees) |
 | [0966-binary-subarrays-with-sum](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0437-path-sum-iii](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0437-path-sum-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0543-diameter-of-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0652-find-duplicate-subtrees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
@@ -168,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0437-path-sum-iii](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0437-path-sum-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0543-diameter-of-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0652-find-duplicate-subtrees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
@@ -196,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0437-path-sum-iii](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0437-path-sum-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0543-diameter-of-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0652-find-duplicate-subtrees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
