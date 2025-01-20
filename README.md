@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0560-subarray-sum-equals-k) |
 | [0652-find-duplicate-subtrees](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0652-find-duplicate-subtrees) |
 | [0966-binary-subarrays-with-sum](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -122,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
