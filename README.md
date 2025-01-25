@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0496-next-greater-element-i) |
+| [0525-contiguous-array](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0560-subarray-sum-equals-k) |
 | [0652-find-duplicate-subtrees](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0652-find-duplicate-subtrees) |
 | [0966-binary-subarrays-with-sum](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0334-increasing-triplet-subsequence](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0496-next-greater-element-i](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0503-next-greater-element-ii) |
+| [0525-contiguous-array](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0943-sum-of-subarray-minimums) |
@@ -122,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/1016-subarray-sums-divisible-by-k) |
