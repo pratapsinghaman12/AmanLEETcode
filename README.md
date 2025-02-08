@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1034-subarrays-with-k-different-integers](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
 |  |
 | ------- |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1370-count-number-of-nice-subarrays](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Array
 |  |
 | ------- |
@@ -123,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1370-count-number-of-nice-subarrays](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search
 |  |
 | ------- |
