@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0643-maximum-average-subarray-i) |
+| [0729-my-calendar-i](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0729-my-calendar-i) |
 | [0735-asteroid-collision](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0222-count-complete-tree-nodes) |
+| [0729-my-calendar-i](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0729-my-calendar-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
@@ -349,4 +351,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0014-longest-common-prefix) |
+## Design
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0729-my-calendar-i) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/pratapsinghaman12/AmanLEETcode/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
